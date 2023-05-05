@@ -1,0 +1,24 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone12",
+        "price": 200,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "mi note10",
+        "price": 50,
+        "company": "mi"
+    },
+    {
+        "name": "samsung S ultra",
+        "price": 192,
+        "company": "samsung"
+    }
+]
